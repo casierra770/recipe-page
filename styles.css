@@ -22,8 +22,7 @@ body{
     background-color: var(--RoseWhite);
 }
 
-header{
-
+.container__recipe{
     width: 80%  ;
     max-width: 450px;
     padding: 18px;
